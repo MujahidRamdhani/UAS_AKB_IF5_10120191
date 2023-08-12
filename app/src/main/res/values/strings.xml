@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">UAS_AKB_IF5_10120191</string>
+    <string name="profile">Profile</string>
+    <string name="note">Notes</string>
+    <string name="info">Info</string>
+    <string name="nama">Ahmad Mujahid Ramdhani</string>
+    <string name="email">mujahidramdhani@gmail.com</string>
+    <string name="kelas">IF-5</string>
+    <string name="nim">10120191</string>
+    <string name="txt_welcome">Selamat Datang di My Note</string>
+    <string name="txt_intro">Mencatat data dengan mudah dan praktis dengan Tampilan yang menarik</string>
+    <string name="page1">Page 1 of 2</string>
+    <string name="page2">Page 2 of 2</string>
+    <string name="page3">Page 3 of 3</string>
+    <string name="memo">MY Note</string>
+    <string name="penjelasan">  Catat data dalam satu ketukan tanpa ribet mencari pulpen yang hilang :(</string>
+    <string name="txt_add">Add Notes</string>
+</resources>
